@@ -6,5 +6,5 @@ Reimplementation of the `ls` linux command using C++ system calls.
 Compile using g++ compiler. `g++ dirls.cpp -o dirls`. Afterwards, it can be called like this `./dirls {directory_name}`
 
 ## Screenshots ##
-![USAGE](/screenshots/help.png?raw=true "Dirls usage help")
+![USAGE](/screenshots/usage.png?raw=true "Dirls usage help")
 
